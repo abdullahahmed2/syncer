@@ -1,0 +1,11 @@
+
+node_modules/
+dist/
+*.log
+
+# IDE - VS Code
+.vscode
+.idea/
+
+# macOS files
+.DS_Store
